@@ -10,4 +10,4 @@ Compile with g++ and input the total time of simulation. Add "> filename.dat" to
 
 It outputs columns of number of 
     
-    1) ensemble, 2) shift of recharge index, 3) time for current ensemble and shift (40 min per iteration), 4) Eastward SST for current       ensemble and shift, 5) Eastward thermocline depth for current ensemble and shift, 6) combined noise for current ensemble and shift,       7) white noise for current ensemble and shift
+    1) ensemble, 2) shift of recharge index, 3) time for current ensemble and shift (40 min per iteration), 4) Eastward SST for current ensemble and shift, 5) Eastward thermocline depth for current ensemble and shift, 6) combined noise for current ensemble and shift, 7) white noise for current ensemble and shift
