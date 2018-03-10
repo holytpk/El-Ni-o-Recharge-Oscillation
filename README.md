@@ -6,7 +6,7 @@ A code for a simple recharge oscillator with white noise. The time series is ens
 
 Execution
 -------------------------------------------------------
-Compile with g++ and input the total time of simulation. Add "> filename.dat" to save the time series. 
+Compile with g++ and input the total time of simulation.  
 
 It outputs columns of number of 
     
